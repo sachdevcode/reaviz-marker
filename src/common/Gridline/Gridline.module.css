@@ -1,0 +1,4 @@
+.gridLine {
+  shape-rendering: crispEdges;
+  pointer-events: none;
+}
